@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Cristian 👋
 
-<!--
-**UmCristian/UmCristian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Systems Engineering student from Bogotá, Colombia.
 
-Here are some ideas to get you started:
+I build web tools, experimental interfaces and personal software projects,
+usually somewhere between practical tooling and "I wonder if this can work".
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current projects
+
+- **Noxi** — A local-first OpenAI playground built for Vercel.
+- **SummonT** — Private tooling and editor work around game translation and reverse engineering.
+- **Interhispa** — Archive exploration and local/offline web tooling.
+
+Currently experimenting with local AI, CLI tooling and weird little software ideas.
