@@ -1,14 +1,19 @@
-# Hi, I'm Cristian 👋
+# UmCristian
 
-Systems Engineering student from Bogotá, Colombia.
+Systems Engineering student from Bogotá.
 
-I build web tools, experimental interfaces and personal software projects,
-usually somewhere between practical tooling and "I wonder if this can work".
+Most of my projects start with one of two thoughts:
 
-## Current projects
+> “this would be useful if it existed”
 
-- **Noxi** — A local-first OpenAI playground built for Vercel.
-- **SummonT** — Private tooling and editor work around game translation and reverse engineering.
-- **Interhispa** — Archive exploration and local/offline web tooling.
+or
 
-Currently experimenting with local AI, CLI tooling and weird little software ideas.
+> “I wonder if this can work”
+
+Right now I'm working on:
+
+- **Noxi** — a local-first OpenAI playground.
+- **SummonT** — translation tooling, editor work, and reverse engineering.
+- **Interhispa** — archive exploration and local/offline tooling.
+
+I also spend an unreasonable amount of time experimenting with local AI, CLI tools, interfaces, and small ideas that stop being small.
