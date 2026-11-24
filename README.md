@@ -1,6 +1,6 @@
 ## Hi, I'm Cristian
 
-Systems Engineering student from Bogotá.
+Software Engineering student from Bogotá.
 
 Most of my projects start with one of two thoughts:
 
